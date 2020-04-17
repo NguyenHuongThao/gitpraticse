@@ -1,6 +1,7 @@
 function Mouse(name){
 	this.name = name;
 	this.dead = false;
+	this.color = color;
 }
 
 Mouse.prototype.die = function(){
