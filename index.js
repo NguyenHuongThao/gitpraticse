@@ -12,4 +12,3 @@ var mouse = new Mouse();
 dog.eat(tom);
 console.log(dog);
 tom.eat(mouse);
-console.log(tom);
