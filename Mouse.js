@@ -1,4 +1,4 @@
-function Mouse(name){
+function Mouse(name,color){
 	this.name = name;
 	this.dead = false;
 	this.color = color;
